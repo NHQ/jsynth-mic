@@ -1,0 +1,51 @@
+{
+  "name": "jsynth-mic",
+  "version": "0.4.0",
+  "description": "Web Audio Mic/Line-in node from getUserMedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "'opa -e entry'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NHQ/jsynth-mic.git"
+  },
+  "keywords": [
+    "getUserMedia",
+    "WebAudio",
+    "mic",
+    "microphone",
+    "browserify"
+  ],
+  "author": {
+    "name": "Johnny Honestly",
+    "email": "mostmodernist@gmail.com",
+    "url": "http://johnnyscript.us/"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/NHQ/jsynth-mic/issues"
+  },
+  "homepage": "https://github.com/NHQ/jsynth-mic",
+  "_id": "jsynth-mic@0.4.0",
+  "dist": {
+    "shasum": "38b6ee23886cf64af5ef24790d3d5bee83e62b2c",
+    "tarball": "http://registry.npmjs.org/jsynth-mic/-/jsynth-mic-0.4.0.tgz"
+  },
+  "_from": "jsynth-mic@",
+  "_npmVersion": "1.3.14",
+  "_npmUser": {
+    "name": "johnnyscript",
+    "email": "mostmodernist@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "johnnyscript",
+      "email": "mostmodernist@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "38b6ee23886cf64af5ef24790d3d5bee83e62b2c",
+  "_resolved": "https://registry.npmjs.org/jsynth-mic/-/jsynth-mic-0.4.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
