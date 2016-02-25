@@ -1,6 +1,6 @@
 {
   "name": "jsynth-mic",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Web Audio Mic/Line-in node from getUserMedia",
   "main": "index.js",
   "scripts": {
